@@ -1,0 +1,18 @@
+# Exclude platform files
+.DS_Store
+
+# Exclude Android Studio files
+*.iml
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.navigation/
+captures/
+local.properties
+
+# Exclude build files
+.gradle/
+.externalNativeBuild/
+build/
+bin/
+gen/
